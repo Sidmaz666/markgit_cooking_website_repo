@@ -1,4 +1,4 @@
-<img class="banner-image" src="https://www.easycookingwithmolly.com/wp-content/uploads/2019/05/quick-easy-chicken-fried-rice-480x360.jpg">
+<img class="banner-image chicken_fried_rice-img" src="https://www.easycookingwithmolly.com/wp-content/uploads/2019/05/quick-easy-chicken-fried-rice-480x360.jpg">
 
 # Chicken Fried Rice Recipe
 
